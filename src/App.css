@@ -1,0 +1,10 @@
+.App {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../src/assets/dirt_tile.png");
+  color: white;
+  text-align: center;
+  overflow-x: hidden;
+  font-family: 'Poppins';
+}
