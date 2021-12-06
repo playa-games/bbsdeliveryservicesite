@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.a468d681.chunk.css",
-    "main.js": "/static/js/main.3cb99c9e.chunk.js",
-    "main.js.map": "/static/js/main.3cb99c9e.chunk.js.map",
+    "main.css": "/static/css/main.b0fd52f4.chunk.css",
+    "main.js": "/static/js/main.68e6ef52.chunk.js",
+    "main.js.map": "/static/js/main.68e6ef52.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5322a972.js",
     "runtime-main.js.map": "/static/js/runtime-main.5322a972.js.map",
     "static/js/2.468e680b.chunk.js": "/static/js/2.468e680b.chunk.js",
     "static/js/2.468e680b.chunk.js.map": "/static/js/2.468e680b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a468d681.chunk.css.map": "/static/css/main.a468d681.chunk.css.map",
+    "static/css/main.b0fd52f4.chunk.css.map": "/static/css/main.b0fd52f4.chunk.css.map",
     "static/js/2.468e680b.chunk.js.LICENSE.txt": "/static/js/2.468e680b.chunk.js.LICENSE.txt",
     "static/media/BB website title.9c8f3587.png": "/static/media/BB website title.9c8f3587.png",
     "static/media/dead_background_website.2cdf8091.png": "/static/media/dead_background_website.2cdf8091.png",
     "static/media/download-icon.012b4387.svg": "/static/media/download-icon.012b4387.svg",
     "static/media/game_screenshot_1.f86793e1.png": "/static/media/game_screenshot_1.f86793e1.png",
     "static/media/game_screenshot_2.2e96676d.png": "/static/media/game_screenshot_2.2e96676d.png",
+    "static/media/play-circle.cfc4e1d5.svg": "/static/media/play-circle.cfc4e1d5.svg",
     "static/media/playa_logo_black.9396681d.png": "/static/media/playa_logo_black.9396681d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5322a972.js",
     "static/js/2.468e680b.chunk.js",
-    "static/css/main.a468d681.chunk.css",
-    "static/js/main.3cb99c9e.chunk.js"
+    "static/css/main.b0fd52f4.chunk.css",
+    "static/js/main.68e6ef52.chunk.js"
   ]
 }
