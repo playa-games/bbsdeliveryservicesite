@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bbsdeliveryservicesite/static/css/main.a468d681.chunk.css",
+    "main.js": "/bbsdeliveryservicesite/static/js/main.60efad29.chunk.js",
+    "main.js.map": "/bbsdeliveryservicesite/static/js/main.60efad29.chunk.js.map",
+    "runtime-main.js": "/bbsdeliveryservicesite/static/js/runtime-main.87623411.js",
+    "runtime-main.js.map": "/bbsdeliveryservicesite/static/js/runtime-main.87623411.js.map",
+    "static/js/2.23e49f4b.chunk.js": "/bbsdeliveryservicesite/static/js/2.23e49f4b.chunk.js",
+    "static/js/2.23e49f4b.chunk.js.map": "/bbsdeliveryservicesite/static/js/2.23e49f4b.chunk.js.map",
+    "static/js/3.1c0fd999.chunk.js": "/bbsdeliveryservicesite/static/js/3.1c0fd999.chunk.js",
+    "static/js/3.1c0fd999.chunk.js.map": "/bbsdeliveryservicesite/static/js/3.1c0fd999.chunk.js.map",
+    "index.html": "/bbsdeliveryservicesite/index.html",
+    "static/css/main.a468d681.chunk.css.map": "/bbsdeliveryservicesite/static/css/main.a468d681.chunk.css.map",
+    "static/js/2.23e49f4b.chunk.js.LICENSE.txt": "/bbsdeliveryservicesite/static/js/2.23e49f4b.chunk.js.LICENSE.txt",
+    "static/media/BB website title.9c8f3587.png": "/bbsdeliveryservicesite/static/media/BB website title.9c8f3587.png",
+    "static/media/dead_background_website.2cdf8091.png": "/bbsdeliveryservicesite/static/media/dead_background_website.2cdf8091.png",
+    "static/media/download-icon.012b4387.svg": "/bbsdeliveryservicesite/static/media/download-icon.012b4387.svg",
+    "static/media/game_screenshot_1.f86793e1.png": "/bbsdeliveryservicesite/static/media/game_screenshot_1.f86793e1.png",
+    "static/media/game_screenshot_2.2e96676d.png": "/bbsdeliveryservicesite/static/media/game_screenshot_2.2e96676d.png",
+    "static/media/playa_logo_black.9396681d.png": "/bbsdeliveryservicesite/static/media/playa_logo_black.9396681d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87623411.js",
+    "static/js/2.23e49f4b.chunk.js",
+    "static/css/main.a468d681.chunk.css",
+    "static/js/main.60efad29.chunk.js"
+  ]
+}
